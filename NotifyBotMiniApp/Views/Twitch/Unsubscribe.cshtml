@@ -1,0 +1,46 @@
+﻿@{
+	ViewData["Title"] = "Отписка от Twitch";
+}
+
+<h1>Отписка от Twitch</h1>
+
+<p>@ViewBag.Message</p>
+
+@if (ViewBag.Subscriptions != null)
+{
+	<form method="post" action="/Twitch/ConfirmUnsubscriptions">
+		<table>
+			<thead>
+				<tr>
+					<th>Имя пользователя Twitch</th>
+					<th>Выбрать</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (var subscription in ViewBag.Subscriptions)
+				{
+					<tr>
+						<td>@subscription.TwitchChannel</td>
+						<td>
+							<input type="checkbox" name="twitchChannels" value="@subscription.TwitchChannel" />
+						</td>
+					</tr>
+				}
+			</tbody>
+		</table>
+		<button type="submit">Отписаться</button>
+	</form>
+}
+else
+{
+	<p>Нет активных подписок.</p>
+}
+
+<div class="navigation-panel">
+	<a href="/Twitch/Twitch" class="nav-icon" title="Назад">
+		<i class="fas fa-arrow-left"></i>
+	</a>
+	<a href="/Home/Index" class="nav-icon" title="Главное меню">
+		<i class="fas fa-home"></i>
+	</a>
+</div>

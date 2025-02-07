@@ -1,0 +1,57 @@
+﻿@{
+	ViewData["Title"] = "Подписка на Twitch";
+}
+
+<h1>Подписка на Twitch</h1>
+
+<p>@ViewBag.Message</p>
+
+@if (ViewBag.StreamInfo != null)
+{
+	<div>
+		<p>@Html.Raw(ViewBag.StreamInfo)</p>
+		@if (ViewBag.StartedAt != null)
+		{
+			<p><strong>Начало стрима:</strong> @ViewBag.StartedAt</p>
+			<p><strong>Ссылка на стрим:</strong> <a href="@ViewBag.StreamUrl" target="_blank">Перейти на стрим</a></p>
+
+			<script src="https://player.twitch.tv/js/embed/v1.js"></script>
+			<script type="text/javascript">
+				document.addEventListener("DOMContentLoaded", function () {
+					var twitchChannel = "@ViewBag.TwitchChannel".toLowerCase();
+
+					if (twitchChannel) {
+						var options = {
+							width: "100%",
+							height: 225,
+							channel: twitchChannel,
+							parent: ["4c66-146-59-56-24.ngrok-free.app"]
+						};
+
+						var player = new Twitch.Player("twitch-player", options);
+						player.setVolume(0.5);
+					} else {
+						console.error("Имя канала Twitch не указано!");
+					}
+				});
+			</script>
+		}
+		<div id="twitch-player" style="width: 100%; max-width: 800px; margin-top: 20px;"></div>
+	</div>
+}
+
+<div class="buttons-container">
+	<form method="post" action="/Twitch/Subscribe">
+		<input type="text" name="TwitchChannel" placeholder="Введите никнейм" required />
+		<button type="submit">Отправить</button>
+	</form>
+</div>
+
+<div class="navigation-panel">
+	<a href="/Twitch/Twitch" class="nav-icon" title="Назад">
+		<i class="fas fa-arrow-left"></i>
+	</a>
+	<a href="/Home/Index" class="nav-icon" title="Главное меню">
+		<i class="fas fa-home"></i>
+	</a>
+</div>

@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Главное меню";
+}
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true">
+    <title>Главное меню</title>
+</head>
+<body>
+    <h1>Главное меню</h1>
+
+    <div class="menu">
+        <form method="get" action="/Twitch/Twitch">
+            <button type="submit" class="twitch-button">
+                <img src="~/images/twitch-logo1.png" alt="Twitch">
+                Twitch
+            </button>
+        </form>
+        <form method="get" action="/Youtube/Youtube">
+            <button type="submit" class="youtube-button">
+                <img src="~/images/youtube-logo1.png" alt="YouTube">
+                YouTube
+            </button>
+        </form>
+    </div>
+
+    <script src="~/js/saveUserData.js" asp-append-version="true"></script>
+</body>
+</html>

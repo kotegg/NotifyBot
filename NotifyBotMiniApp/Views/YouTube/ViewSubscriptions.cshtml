@@ -1,0 +1,32 @@
+﻿@model List<string>
+
+@{
+	ViewData["Title"] = "Ваши подписки на YouTube";
+}
+
+<h1>Ваши подписки на YouTube</h1>
+
+<p>@ViewBag.Message</p>
+
+@if (ViewBag.Subscriptions != null)
+{
+	<ul>
+		@foreach (var sub in ViewBag.Subscriptions)
+		{
+			<li><a href="https://www.youtube.com/channel/@sub.ChannelId" target="_blank">@sub.ChannelName</a></li>
+		}
+	</ul>
+}
+else
+{
+	<p>У вас нет подписок.</p>
+}
+
+<div class="navigation-panel">
+	<a href="/YouTube/YouTube" class="nav-icon" title="Назад">
+		<i class="fas fa-arrow-left"></i>
+	</a>
+	<a href="/Home/Index" class="nav-icon" title="Главное меню">
+		<i class="fas fa-home"></i>
+	</a>
+</div>

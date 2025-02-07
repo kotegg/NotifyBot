@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Twitch";
+}
+
+<h1>Twitch</h1>
+
+<div class="buttons-container">
+    <form method="get" action="/Twitch/Subscribe">
+        <button>Подписаться на уведомления</button>
+    </form>
+    <form method="get" action="/Twitch/Unsubscribe">
+        <button>Отписаться от уведомлений</button>
+    </form>
+    <form method="get" action="/Twitch/CheckStream">
+        <button>Проверить стрим</button>
+    </form>
+    <form method="get" action="/Twitch/ViewSubscriptions">
+        <button>Просмотреть свои подписки</button>
+    </form>
+</div>
+
+<div class="navigation-panel">
+    <a href="/Home/Index" class="nav-icon" title="Главное меню">
+        <i class="fas fa-arrow-left"></i>
+    </a>
+</div>

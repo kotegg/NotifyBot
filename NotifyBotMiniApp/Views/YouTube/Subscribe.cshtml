@@ -1,0 +1,56 @@
+﻿@{
+	ViewData["Title"] = "Подписка на YouTube";
+}
+
+<h1>Подписка на YouTube</h1>
+
+<p>@ViewBag.Message</p>
+
+@if (ViewBag.Channels != null)
+{
+	<form method="post" action="/YouTube/ConfirmSubscriptions">
+		<table>
+			<thead>
+				<tr>
+					<th>Аватар</th>
+					<th>Название канала</th>
+					<th>Подписчики</th>
+					<th>Выбор</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (var channel in ViewBag.Channels)
+				{
+					<tr>
+						<td>
+							<img src="@channel.ThumbnailUrl" alt="Avatar" style="width:50px;height:50px;">
+						</td>
+						<td>@channel.Title</td>
+						<td>@channel.SubscriberCount</td>
+						<td>
+							<input type="checkbox" name="channelIds" value="@channel.Id" />
+							<input type="hidden" name="channelTitles[@channel.Id]" value="@channel.Title" />
+						</td>
+					</tr>
+				}
+			</tbody>
+		</table>
+		<button type="submit">Подтвердить подписку</button>
+	</form>
+}
+else
+{
+	<form method="post" action="/YouTube/Subscribe">
+		<input type="text" name="channelName" placeholder="Введите название канала" required />
+		<button type="submit">Искать</button>
+	</form>
+}
+
+<div class="navigation-panel">
+	<a href="/YouTube/YouTube" class="nav-icon" title="Назад">
+		<i class="fas fa-arrow-left"></i>
+	</a>
+	<a href="/Home/Index" class="nav-icon" title="Главное меню">
+		<i class="fas fa-home"></i>
+	</a>
+</div>

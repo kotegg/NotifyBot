@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NotifyBotMiniApp
+build_property.RootNamespace = NotifyBotMiniApp
+build_property.ProjectDir = D:\labs\NotifyBotMiniApp\NotifyBotMiniApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\labs\NotifyBotMiniApp\NotifyBotMiniApp
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/labs/NotifyBotMiniApp/NotifyBotMiniApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/labs/NotifyBotMiniApp/NotifyBotMiniApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/labs/NotifyBotMiniApp/NotifyBotMiniApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/labs/NotifyBotMiniApp/NotifyBotMiniApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/labs/NotifyBotMiniApp/NotifyBotMiniApp/Views/Twitch/CheckStream.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHdpdGNoXENoZWNrU3RyZWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/labs/NotifyBotMiniApp/NotifyBotMiniApp/Views/Twitch/Subscribe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHdpdGNoXFN1YnNjcmliZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/labs/NotifyBotMiniApp/NotifyBotMiniApp/Views/Twitch/Twitch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHdpdGNoXFR3aXRjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/labs/NotifyBotMiniApp/NotifyBotMiniApp/Views/Twitch/Unsubscribe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHdpdGNoXFVuc3Vic2NyaWJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/labs/NotifyBotMiniApp/NotifyBotMiniApp/Views/Twitch/ViewSubscriptions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHdpdGNoXFZpZXdTdWJzY3JpcHRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/labs/NotifyBotMiniApp/NotifyBotMiniApp/Views/YouTube/Subscribe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW91VHViZVxTdWJzY3JpYmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/labs/NotifyBotMiniApp/NotifyBotMiniApp/Views/YouTube/Unsubscribe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW91VHViZVxVbnN1YnNjcmliZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/labs/NotifyBotMiniApp/NotifyBotMiniApp/Views/YouTube/ViewSubscriptions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW91VHViZVxWaWV3U3Vic2NyaXB0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/labs/NotifyBotMiniApp/NotifyBotMiniApp/Views/YouTube/YouTube.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWW91VHViZVxZb3VUdWJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/labs/NotifyBotMiniApp/NotifyBotMiniApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/labs/NotifyBotMiniApp/NotifyBotMiniApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/labs/NotifyBotMiniApp/NotifyBotMiniApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ctsrp2osgq

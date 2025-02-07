@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "YouTube меню";
+}
+
+<h1>YouTube</h1>
+
+<div class="buttons-container">
+    <form method="get" action="/YouTube/Subscribe">
+        <button>Подписаться на уведомления</button>
+    </form>
+    <form method="get" action="/YouTube/Unsubscribe">
+        <button>Отписаться от уведомлений</button>
+    </form>
+    <form method="get" action="/YouTube/ViewSubscriptions">
+        <button>Просмотреть свои подписки</button>
+    </form>
+</div>
+
+<div class="navigation-panel">
+    <a href="/Home/Index" class="nav-icon" title="Главное меню">
+        <i class="fas fa-arrow-left"></i>
+    </a>
+</div>
