@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NotifyBotMiniApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63a3e3e7ad9e5ceec05c71c91c3ad270539cfba6")]
 [assembly: System.Reflection.AssemblyProductAttribute("NotifyBotMiniApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NotifyBotMiniApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

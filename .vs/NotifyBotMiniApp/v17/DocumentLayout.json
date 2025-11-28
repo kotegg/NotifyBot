@@ -3,132 +3,36 @@
   "WorkspaceRootPath": "D:\\labs\\NotifyBotMiniApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\notifybotminiapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\notifybotminiapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\services\\twitchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\services\\twitchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52FCA741-2AE3-4476-9AE8-46F23052A25D}|NotifyBotMiniApp.Tests\\NotifyBotMiniApp.Tests.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp.tests\\youtubeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FCA741-2AE3-4476-9AE8-46F23052A25D}|NotifyBotMiniApp.Tests\\NotifyBotMiniApp.Tests.csproj|solutionrelative:notifybotminiapp.tests\\youtubeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52FCA741-2AE3-4476-9AE8-46F23052A25D}|NotifyBotMiniApp.Tests\\NotifyBotMiniApp.Tests.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp.tests\\twitchservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FCA741-2AE3-4476-9AE8-46F23052A25D}|NotifyBotMiniApp.Tests\\NotifyBotMiniApp.Tests.csproj|solutionrelative:notifybotminiapp.tests\\twitchservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\services\\twitchnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\services\\twitchnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\services\\youtubenotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\services\\youtubenotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52FCA741-2AE3-4476-9AE8-46F23052A25D}|NotifyBotMiniApp.Tests\\NotifyBotMiniApp.Tests.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp.tests\\testhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FCA741-2AE3-4476-9AE8-46F23052A25D}|NotifyBotMiniApp.Tests\\NotifyBotMiniApp.Tests.csproj|solutionrelative:notifybotminiapp.tests\\testhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\twitch\\checkstream.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\twitch\\checkstream.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\services\\youtubeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\services\\youtubeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\wwwroot\\js\\saveuserdata.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\wwwroot\\js\\saveuserdata.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\controllers\\youtubecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\controllers\\youtubecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\controllers\\twitchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\controllers\\twitchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\models\\twitch_subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\models\\twitch_subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\models\\youtube_subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\models\\youtube_subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\notifybotminiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\notifybotminiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52FCA741-2AE3-4476-9AE8-46F23052A25D}|NotifyBotMiniApp.Tests\\NotifyBotMiniApp.Tests.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp.tests\\notifybotminiapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{52FCA741-2AE3-4476-9AE8-46F23052A25D}|NotifyBotMiniApp.Tests\\NotifyBotMiniApp.Tests.csproj|solutionrelative:notifybotminiapp.tests\\notifybotminiapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\youtube\\viewsubscriptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\youtube\\viewsubscriptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\services\\twitchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\services\\twitchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\twitch\\viewsubscriptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\twitch\\viewsubscriptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\youtube\\youtube.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\youtube\\youtube.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\twitch\\twitch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\twitch\\twitch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\twitch\\unsubscribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\twitch\\unsubscribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\youtube\\subscribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\youtube\\subscribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\twitch\\subscribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\twitch\\subscribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\youtube\\unsubscribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\youtube\\unsubscribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\services\\twitchnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\services\\twitchnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -139,24 +43,108 @@
       "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\notifybotminiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\notifybotminiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52FCA741-2AE3-4476-9AE8-46F23052A25D}|NotifyBotMiniApp.Tests\\NotifyBotMiniApp.Tests.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52FCA741-2AE3-4476-9AE8-46F23052A25D}|NotifyBotMiniApp.Tests\\NotifyBotMiniApp.Tests.csproj|solutionrelative:notifybotminiapp.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\twitch\\checkstream.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\twitch\\checkstream.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\twitch\\subscribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\twitch\\subscribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\twitch\\twitch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\twitch\\twitch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\twitch\\unsubscribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\twitch\\unsubscribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\twitch\\viewsubscriptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\twitch\\viewsubscriptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\youtube\\subscribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\youtube\\subscribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\youtube\\unsubscribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\youtube\\unsubscribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\youtube\\viewsubscriptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\youtube\\viewsubscriptions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\youtube\\youtube.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\youtube\\youtube.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\models\\youtube_subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\models\\youtube_subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\models\\twitch_subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\models\\twitch_subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\wwwroot\\js\\saveuserdata.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\wwwroot\\js\\saveuserdata.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\controllers\\twitchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\controllers\\twitchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\services\\youtubenotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\services\\youtubenotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\services\\youtubeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\services\\youtubeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\controllers\\youtubecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\controllers\\youtubecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Services\\NotificationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -174,11 +162,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "NotifyBotMiniApp\\Controllers\\HomeController.cs",
@@ -191,47 +179,36 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TwitchServiceTests.cs",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp.Tests\\TwitchServiceTests.cs",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp.Tests\\TwitchServiceTests.cs",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp.Tests\\TwitchServiceTests.cs",
-              "RelativeToolTip": "NotifyBotMiniApp.Tests\\TwitchServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T11:49:07.963Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "YouTubeServiceTests.cs",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp.Tests\\YouTubeServiceTests.cs",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp.Tests\\YouTubeServiceTests.cs",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp.Tests\\YouTubeServiceTests.cs",
-              "RelativeToolTip": "NotifyBotMiniApp.Tests\\YouTubeServiceTests.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAYwFgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T23:11:37.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "YouTubeNotificationService.cs",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Services\\YouTubeNotificationService.cs",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Services\\YouTubeNotificationService.cs",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Services\\YouTubeNotificationService.cs",
-              "RelativeToolTip": "NotifyBotMiniApp\\Services\\YouTubeNotificationService.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAkwFgAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T21:44:24.742Z"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\appsettings.Development.json",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\appsettings.Development.json",
+              "RelativeToolTip": "NotifyBotMiniApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-28T21:45:03.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TwitchNotificationService.cs",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Services\\TwitchNotificationService.cs",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Services\\TwitchNotificationService.cs",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Services\\TwitchNotificationService.cs",
+              "RelativeToolTip": "NotifyBotMiniApp\\Services\\TwitchNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:16:09.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TwitchService.cs",
               "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Services\\TwitchService.cs",
               "RelativeDocumentMoniker": "NotifyBotMiniApp\\Services\\TwitchService.cs",
@@ -243,200 +220,200 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TestHelpers.cs",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp.Tests\\TestHelpers.cs",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp.Tests\\TestHelpers.cs",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp.Tests\\TestHelpers.cs",
-              "RelativeToolTip": "NotifyBotMiniApp.Tests\\TestHelpers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "NotifyBotMiniApp\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T13:28:13.414Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Program.cs",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Program.cs",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Program.cs",
-              "RelativeToolTip": "NotifyBotMiniApp\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T14:18:21.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CheckStream.cshtml",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Twitch\\CheckStream.cshtml",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\Twitch\\CheckStream.cshtml",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Twitch\\CheckStream.cshtml",
-              "RelativeToolTip": "NotifyBotMiniApp\\Views\\Twitch\\CheckStream.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T10:52:34.792Z"
+              "WhenOpened": "2024-11-19T08:40:36.561Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NotifyBotMiniApp",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\NotifyBotMiniApp.csproj",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\NotifyBotMiniApp.csproj",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\NotifyBotMiniApp.csproj",
+              "RelativeToolTip": "NotifyBotMiniApp\\NotifyBotMiniApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-28T20:43:01.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NotifyBotMiniApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T20:22:19.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\appsettings.json",
               "RelativeDocumentMoniker": "NotifyBotMiniApp\\appsettings.json",
               "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\appsettings.json",
               "RelativeToolTip": "NotifyBotMiniApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-11T22:17:38.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TwitchNotificationService.cs",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Services\\TwitchNotificationService.cs",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Services\\TwitchNotificationService.cs",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Services\\TwitchNotificationService.cs",
-              "RelativeToolTip": "NotifyBotMiniApp\\Services\\TwitchNotificationService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T11:16:09.486Z"
+              "DocumentIndex": 3,
+              "Title": "NotifyBotMiniApp.csproj",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\NotifyBotMiniApp.csproj",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\NotifyBotMiniApp.csproj",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\NotifyBotMiniApp.csproj",
+              "RelativeToolTip": "NotifyBotMiniApp\\NotifyBotMiniApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T15:16:01.748Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "YouTubeService.cs",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Services\\YouTubeService.cs",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Services\\YouTubeService.cs",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Services\\YouTubeService.cs",
-              "RelativeToolTip": "NotifyBotMiniApp\\Services\\YouTubeService.cs",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAQwL4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T13:04:52.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "saveUserData.js",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\wwwroot\\js\\saveUserData.js",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\wwwroot\\js\\saveUserData.js",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\wwwroot\\js\\saveUserData.js",
-              "RelativeToolTip": "NotifyBotMiniApp\\wwwroot\\js\\saveUserData.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-19T08:42:28.115Z"
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "NotifyBotMiniApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T20:22:28.305Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "YouTubeController.cs",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Controllers\\YouTubeController.cs",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Controllers\\YouTubeController.cs",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Controllers\\YouTubeController.cs",
-              "RelativeToolTip": "NotifyBotMiniApp\\Controllers\\YouTubeController.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAYwLUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T11:16:10.939Z"
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "NotifyBotMiniApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T15:49:03.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NotifyBotMiniApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T19:14:32.981Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "TwitchController.cs",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Controllers\\TwitchController.cs",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Controllers\\TwitchController.cs",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Controllers\\TwitchController.cs",
-              "RelativeToolTip": "NotifyBotMiniApp\\Controllers\\TwitchController.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAYwLQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T14:25:49.584Z"
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "NotifyBotMiniApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T08:48:27.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CheckStream.cshtml",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Twitch\\CheckStream.cshtml",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\Twitch\\CheckStream.cshtml",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Twitch\\CheckStream.cshtml",
+              "RelativeToolTip": "NotifyBotMiniApp\\Views\\Twitch\\CheckStream.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T10:52:34.792Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Twitch_Subscription.cs",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Models\\Twitch_Subscription.cs",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Models\\Twitch_Subscription.cs",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Models\\Twitch_Subscription.cs",
-              "RelativeToolTip": "NotifyBotMiniApp\\Models\\Twitch_Subscription.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T16:32:21.599Z"
+              "Title": "Subscribe.cshtml",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Twitch\\Subscribe.cshtml",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\Twitch\\Subscribe.cshtml",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Twitch\\Subscribe.cshtml",
+              "RelativeToolTip": "NotifyBotMiniApp\\Views\\Twitch\\Subscribe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T10:14:08.094Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "YouTube_Subscription.cs",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Models\\YouTube_Subscription.cs",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Models\\YouTube_Subscription.cs",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Models\\YouTube_Subscription.cs",
-              "RelativeToolTip": "NotifyBotMiniApp\\Models\\YouTube_Subscription.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T10:33:05.513Z"
+              "Title": "Twitch.cshtml",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Twitch\\Twitch.cshtml",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\Twitch\\Twitch.cshtml",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Twitch\\Twitch.cshtml",
+              "RelativeToolTip": "NotifyBotMiniApp\\Views\\Twitch\\Twitch.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T09:16:54.288Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Controllers\\BaseController.cs",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "NotifyBotMiniApp\\Controllers\\BaseController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T08:40:36.561Z"
+              "Title": "Unsubscribe.cshtml",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Twitch\\Unsubscribe.cshtml",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\Twitch\\Unsubscribe.cshtml",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Twitch\\Unsubscribe.cshtml",
+              "RelativeToolTip": "NotifyBotMiniApp\\Views\\Twitch\\Unsubscribe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T10:23:22.491Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "NotifyBotMiniApp.Tests.csproj",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp.Tests\\NotifyBotMiniApp.Tests.csproj",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp.Tests\\NotifyBotMiniApp.Tests.csproj",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp.Tests\\NotifyBotMiniApp.Tests.csproj",
-              "RelativeToolTip": "NotifyBotMiniApp.Tests\\NotifyBotMiniApp.Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-10T16:02:00.187Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "YouTube.cshtml",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\YouTube\\YouTube.cshtml",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\YouTube\\YouTube.cshtml",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\YouTube\\YouTube.cshtml",
-              "RelativeToolTip": "NotifyBotMiniApp\\Views\\YouTube\\YouTube.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T10:51:36.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "ViewSubscriptions.cshtml",
               "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Twitch\\ViewSubscriptions.cshtml",
               "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\Twitch\\ViewSubscriptions.cshtml",
               "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Twitch\\ViewSubscriptions.cshtml",
               "RelativeToolTip": "NotifyBotMiniApp\\Views\\Twitch\\ViewSubscriptions.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-13T10:47:12.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Models\\User.cs",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Models\\User.cs",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Models\\User.cs",
-              "RelativeToolTip": "NotifyBotMiniApp\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T16:30:40.794Z"
+              "DocumentIndex": 18,
+              "Title": "Subscribe.cshtml",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\YouTube\\Subscribe.cshtml",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\YouTube\\Subscribe.cshtml",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\YouTube\\Subscribe.cshtml",
+              "RelativeToolTip": "NotifyBotMiniApp\\Views\\YouTube\\Subscribe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T10:50:50.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
+              "Title": "Unsubscribe.cshtml",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\YouTube\\Unsubscribe.cshtml",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\YouTube\\Unsubscribe.cshtml",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\YouTube\\Unsubscribe.cshtml",
+              "RelativeToolTip": "NotifyBotMiniApp\\Views\\YouTube\\Unsubscribe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T10:50:52.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "ViewSubscriptions.cshtml",
               "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\YouTube\\ViewSubscriptions.cshtml",
               "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\YouTube\\ViewSubscriptions.cshtml",
@@ -448,211 +425,187 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "YouTube.cshtml",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\YouTube\\YouTube.cshtml",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\YouTube\\YouTube.cshtml",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\YouTube\\YouTube.cshtml",
+              "RelativeToolTip": "NotifyBotMiniApp\\Views\\YouTube\\YouTube.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T10:51:36.668Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Twitch.cshtml",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Twitch\\Twitch.cshtml",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\Twitch\\Twitch.cshtml",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Twitch\\Twitch.cshtml",
-              "RelativeToolTip": "NotifyBotMiniApp\\Views\\Twitch\\Twitch.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T09:16:54.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Unsubscribe.cshtml",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\YouTube\\Unsubscribe.cshtml",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\YouTube\\Unsubscribe.cshtml",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\YouTube\\Unsubscribe.cshtml",
-              "RelativeToolTip": "NotifyBotMiniApp\\Views\\YouTube\\Unsubscribe.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T10:50:52.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Subscribe.cshtml",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Twitch\\Subscribe.cshtml",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\Twitch\\Subscribe.cshtml",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Twitch\\Subscribe.cshtml",
-              "RelativeToolTip": "NotifyBotMiniApp\\Views\\Twitch\\Subscribe.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T10:14:08.094Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Unsubscribe.cshtml",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Twitch\\Unsubscribe.cshtml",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\Twitch\\Unsubscribe.cshtml",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Twitch\\Unsubscribe.cshtml",
-              "RelativeToolTip": "NotifyBotMiniApp\\Views\\Twitch\\Unsubscribe.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T10:23:22.491Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "NotifyBotMiniApp\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T14:23:50.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "NotifyBotMiniApp\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T16:13:55.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Subscribe.cshtml",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\YouTube\\Subscribe.cshtml",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\YouTube\\Subscribe.cshtml",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\YouTube\\Subscribe.cshtml",
-              "RelativeToolTip": "NotifyBotMiniApp\\Views\\YouTube\\Subscribe.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAADAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T10:50:50.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "NotifyBotMiniApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T08:48:27.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\_ViewImports.cshtml",
               "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "NotifyBotMiniApp\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-29T10:50:54.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "NotifyBotMiniApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NotifyBotMiniApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T20:22:19.729Z"
+              "WhenOpened": "2024-12-09T14:23:50.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "NotifyBotMiniApp\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T20:22:28.305Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "NotifyBotMiniApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T19:14:32.981Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "NotifyBotMiniApp.csproj",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\NotifyBotMiniApp.csproj",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\NotifyBotMiniApp.csproj",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\NotifyBotMiniApp.csproj",
-              "RelativeToolTip": "NotifyBotMiniApp\\NotifyBotMiniApp.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-16T15:16:01.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "NotifyBotMiniApp\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEUAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-04T09:15:47.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "NotifyBotMiniApp\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-06T15:49:03.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp.Tests\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "NotifyBotMiniApp.Tests\\GlobalUsings.cs",
-              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp.Tests\\GlobalUsings.cs",
-              "RelativeToolTip": "NotifyBotMiniApp.Tests\\GlobalUsings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Program.cs",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Program.cs",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Program.cs",
+              "RelativeToolTip": "NotifyBotMiniApp\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T11:49:06.254Z"
+              "WhenOpened": "2024-11-09T14:18:21.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 25,
+              "Title": "YouTube_Subscription.cs",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Models\\YouTube_Subscription.cs",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Models\\YouTube_Subscription.cs",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Models\\YouTube_Subscription.cs",
+              "RelativeToolTip": "NotifyBotMiniApp\\Models\\YouTube_Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:33:05.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Models\\User.cs",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Models\\User.cs",
+              "RelativeToolTip": "NotifyBotMiniApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:30:40.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Twitch_Subscription.cs",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Models\\Twitch_Subscription.cs",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Models\\Twitch_Subscription.cs",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Models\\Twitch_Subscription.cs",
+              "RelativeToolTip": "NotifyBotMiniApp\\Models\\Twitch_Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:32:21.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "NotifyBotMiniApp\\Models\\ErrorViewModel.cs",
               "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "NotifyBotMiniApp\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T09:11:09.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 29,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "NotifyBotMiniApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:13:55.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "NotifyBotMiniApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-04T09:15:47.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "saveUserData.js",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\wwwroot\\js\\saveUserData.js",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\wwwroot\\js\\saveUserData.js",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\wwwroot\\js\\saveUserData.js",
+              "RelativeToolTip": "NotifyBotMiniApp\\wwwroot\\js\\saveUserData.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-19T08:42:28.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TwitchController.cs",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Controllers\\TwitchController.cs",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Controllers\\TwitchController.cs",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Controllers\\TwitchController.cs",
+              "RelativeToolTip": "NotifyBotMiniApp\\Controllers\\TwitchController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:25:49.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "YouTubeNotificationService.cs",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Services\\YouTubeNotificationService.cs",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Services\\YouTubeNotificationService.cs",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Services\\YouTubeNotificationService.cs",
+              "RelativeToolTip": "NotifyBotMiniApp\\Services\\YouTubeNotificationService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwFgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:44:24.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "YouTubeService.cs",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Services\\YouTubeService.cs",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Services\\YouTubeService.cs",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Services\\YouTubeService.cs",
+              "RelativeToolTip": "NotifyBotMiniApp\\Services\\YouTubeService.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAQwL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:04:52.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "YouTubeController.cs",
+              "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Controllers\\YouTubeController.cs",
+              "RelativeDocumentMoniker": "NotifyBotMiniApp\\Controllers\\YouTubeController.cs",
+              "ToolTip": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Controllers\\YouTubeController.cs",
+              "RelativeToolTip": "NotifyBotMiniApp\\Controllers\\YouTubeController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAYwLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:16:10.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "NotificationService.cs",
               "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Services\\NotificationService.cs",
               "RelativeDocumentMoniker": "NotifyBotMiniApp\\Services\\NotificationService.cs",
@@ -664,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 37,
               "Title": "BotController.cs",
               "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Controllers\\BotController.cs",
               "RelativeDocumentMoniker": "NotifyBotMiniApp\\Controllers\\BotController.cs",
