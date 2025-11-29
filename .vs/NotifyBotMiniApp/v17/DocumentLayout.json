@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\labs\\NotifyBotMiniApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\services\\twitchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\services\\twitchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\notifybotminiapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\notifybotminiapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\services\\twitchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|solutionrelative:notifybotminiapp\\services\\twitchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{224EB14D-6785-4F59-96E9-7A64F20FB551}|NotifyBotMiniApp\\NotifyBotMiniApp.csproj|d:\\labs\\notifybotminiapp\\notifybotminiapp\\services\\twitchnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -162,11 +162,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "NotifyBotMiniApp\\Controllers\\HomeController.cs",
@@ -178,12 +178,8 @@
               "IsPinned": true
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\appsettings.Development.json",
               "RelativeDocumentMoniker": "NotifyBotMiniApp\\appsettings.Development.json",
@@ -191,8 +187,7 @@
               "RelativeToolTip": "NotifyBotMiniApp\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-28T21:45:03.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T21:45:03.993Z"
             },
             {
               "$type": "Document",
@@ -208,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "TwitchService.cs",
               "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Services\\TwitchService.cs",
               "RelativeDocumentMoniker": "NotifyBotMiniApp\\Services\\TwitchService.cs",
@@ -216,11 +211,12 @@
               "RelativeToolTip": "NotifyBotMiniApp\\Services\\TwitchService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T15:40:21.17Z"
+              "WhenOpened": "2024-11-13T15:40:21.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BaseController.cs",
               "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\Controllers\\BaseController.cs",
               "RelativeDocumentMoniker": "NotifyBotMiniApp\\Controllers\\BaseController.cs",
@@ -232,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NotifyBotMiniApp",
               "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\NotifyBotMiniApp.csproj",
               "RelativeDocumentMoniker": "NotifyBotMiniApp\\NotifyBotMiniApp.csproj",
@@ -256,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\appsettings.json",
               "RelativeDocumentMoniker": "NotifyBotMiniApp\\appsettings.json",
@@ -264,12 +260,11 @@
               "RelativeToolTip": "NotifyBotMiniApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-11T22:17:38.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T22:17:38.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "NotifyBotMiniApp.csproj",
               "DocumentMoniker": "D:\\labs\\NotifyBotMiniApp\\NotifyBotMiniApp\\NotifyBotMiniApp.csproj",
               "RelativeDocumentMoniker": "NotifyBotMiniApp\\NotifyBotMiniApp.csproj",

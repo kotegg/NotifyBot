@@ -1,0 +1,10 @@
+services:
+  notifybot:
+    env_file:
+      - .env
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=db;Database=NotifyBot;User Id=sa;Password=${DB_PASSWORD};TrustServerCertificate=True;MultipleActiveResultSets=true
+      - TelegramBot__Token=${TELEGRAM_TOKEN}
+      - Twitch__ClientId=${TWITCH_CLIENT_ID}
+      - Twitch__ClientSecret=${TWITCH_CLIENT_SECRET}
+      - YouTube__ApiKey=${YOUTUBE_API_KEY}
